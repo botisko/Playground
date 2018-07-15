@@ -1,7 +1,5 @@
 """Daily Menus of restaurants near Honeywell Brno"""
 
-"""lxml package is requied"""
-
 import sys
 
 from lxml import html
