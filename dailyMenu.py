@@ -37,7 +37,7 @@ def printMenu(numMenu, selMenu):
 
 def main():
     """Main script menu"""
-    sel = input("Please select desired restaurant:\n\t1) GOA\n\t2) AllTasty\n\t3) Sodexo\n\t4) All of the above\n ")
+    sel = input("Please select desired restaurant:\n\t1) GOA\n\t2) AllTasty\n\t3) Sodexo\n\t4) Select All\n ")
     selMenu = getMenu(int(sel)-1)
     # vyjimka - check numerka
     # neco jsem zadal?
