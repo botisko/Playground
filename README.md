@@ -1,10 +1,7 @@
 # Playground
-Playgroung repository for learning new stuff.
+Playground repository for learning and trying new stuff.
 
-## playgrnd.py
-TEMP file for random testing (so far 'Hello Universe' message is there..)
-
-## dailyMenu.py
+## daily_menu.py
 Script for scrapping daily menus from restaurant websites near Honeywell.
 
 ### Prerequisites
@@ -14,4 +11,4 @@ Script for scrapping daily menus from restaurant websites near Honeywell.
 * [Python 3.6.5](https://docs.python.org/3/)
 
 ## Authors
-* **Jan Bijota** - [Playground](https://github.com/botisko/playgrnd/)
+* **botisko** - [Playground](https://github.com/botisko/playgrnd/)
